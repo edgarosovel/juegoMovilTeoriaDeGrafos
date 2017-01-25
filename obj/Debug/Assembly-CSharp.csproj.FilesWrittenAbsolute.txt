@@ -1,0 +1,13 @@
+/Users/MACBOOKRETINA/Desktop/Grafos/Temp/bin/Debug/UnityEngine.dll
+/Users/MACBOOKRETINA/Desktop/Grafos/Temp/bin/Debug/UnityEditor.dll
+/Users/MACBOOKRETINA/Desktop/Grafos/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/MACBOOKRETINA/Desktop/Grafos/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/MACBOOKRETINA/Desktop/Grafos/Temp/bin/Debug/Mono.Cecil.dll
+/Users/MACBOOKRETINA/Desktop/Grafos/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/MACBOOKRETINA/Desktop/Grafos/Temp/bin/Debug/Unity.DataContract.dll
+/Users/MACBOOKRETINA/Desktop/Grafos/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/MACBOOKRETINA/Desktop/Grafos/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/MACBOOKRETINA/Desktop/Grafos/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/MACBOOKRETINA/Desktop/Grafos/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/MACBOOKRETINA/Desktop/Grafos/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/MACBOOKRETINA/Desktop/Grafos/Temp/bin/Debug/Mono.Cecil.Mdb.dll
