@@ -7,14 +7,14 @@ Esta aplicación fue desarrollada como parte del proyecto final para la clase de
 
 Desarrollado con Unity 3D
 
-<img src="https://raw.githubusercontent.com/edgarosovel/juegoMovilTeoriaDeGrafos/master/1.png" width="25%">
-<img src="https://raw.githubusercontent.com/edgarosovel/juegoMovilTeoriaDeGrafos/master/2.png" width="25%">
+<img src="https://raw.githubusercontent.com/edgarosovel/juegoMovilTeoriaDeGrafos/master/1.png" width="20%">
+<img src="https://raw.githubusercontent.com/edgarosovel/juegoMovilTeoriaDeGrafos/master/2.png" width="20%">
 
-<img src="https://raw.githubusercontent.com/edgarosovel/juegoMovilTeoriaDeGrafos/master/3.png" width="25%">
-<img src="https://raw.githubusercontent.com/edgarosovel/juegoMovilTeoriaDeGrafos/master/4.png" width="25%">
+<img src="https://raw.githubusercontent.com/edgarosovel/juegoMovilTeoriaDeGrafos/master/3.png" width="20%">
+<img src="https://raw.githubusercontent.com/edgarosovel/juegoMovilTeoriaDeGrafos/master/4.png" width="20%">
 
-<img src="https://raw.githubusercontent.com/edgarosovel/juegoMovilTeoriaDeGrafos/master/5.png" width="25%">
-<img src="https://raw.githubusercontent.com/edgarosovel/juegoMovilTeoriaDeGrafos/master/6.png" width="25%">
+<img src="https://raw.githubusercontent.com/edgarosovel/juegoMovilTeoriaDeGrafos/master/5.png" width="20%">
+<img src="https://raw.githubusercontent.com/edgarosovel/juegoMovilTeoriaDeGrafos/master/6.png" width="20%">
 
-<img src="https://raw.githubusercontent.com/edgarosovel/juegoMovilTeoriaDeGrafos/master/7.png" width="25%">
-<img src="https://raw.githubusercontent.com/edgarosovel/juegoMovilTeoriaDeGrafos/master/8.png" width="25%">
+<img src="https://raw.githubusercontent.com/edgarosovel/juegoMovilTeoriaDeGrafos/master/7.png" width="20%">
+<img src="https://raw.githubusercontent.com/edgarosovel/juegoMovilTeoriaDeGrafos/master/8.png" width="20%">
